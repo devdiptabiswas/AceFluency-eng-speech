@@ -1,6 +1,6 @@
 # AceFluency-eng-speech
 
-he frontend code is in the `app` directory and is built with [Vite](https://vitejs.dev/).
+The frontend code is in the `app` directory and is built with [Vite](https://vitejs.dev/).
   
 The backend code is in the `backend` directory.[I have used convex server]
   
